@@ -21,3 +21,4 @@ Fonts:
 Proxima Nova
 Avenir
 https://github.com/Veline-F/Landing-Page-for-Chairty-Water-Coding/blob/db4bdb3cabe45df4b0568acb01785a45c7e10fc5/Screenshot%202025-05-25%20153006.jpg
+https://github.com/Veline-F/Landing-Page-for-Chairty-Water-Coding/blob/01050c69262bad28ff5d62bbbeef22b1b9c80e48/charitywater_logo_horizontal_BlackText%20(2).png
