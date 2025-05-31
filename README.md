@@ -20,3 +20,4 @@ Pink: #F16061
 Fonts:
 Proxima Nova
 Avenir
+https://github.com/Veline-F/Landing-Page-for-Chairty-Water-Coding/blob/db4bdb3cabe45df4b0568acb01785a45c7e10fc5/Screenshot%202025-05-25%20153006.jpg
